@@ -1,0 +1,21 @@
+Jake White - jrw5949
+
+How are you feeling about your project thus far?
+
+I feel good about my current project. I think it will be large enough for the project and I should be able to create it in time before the deliverables are due. I can adjust the complexity of my 
+project depending if I am having issues with some features. I can also make the project more complex if I finish it earlier than expected. 
+
+Is the presented material helping your team in developing concrete project requirements?
+
+Yes the presented material is helping me develop requirements. I think that I will make a list of things I should be able to finish by the end of the semester. I also can try to envision a 
+ideal game with certain features. The presented material will help me develop my game and help my project.
+
+Keeping in mind the design studio nature of the course and where we are in the project planning phase, are there areas that you think should be covered in the next few classes, and if so what and why?
+
+I am currently planning out how many levels and how complex I want the game so I can finish it in time with my ideal game features. I am thinking of making a leveling system where a player can unlock new 
+tanks or ammo to help complete the game. I think it would be useful to present information about GUI interfaces and action listeners and MVC model so I can start to create my game with proper knowledge of what 
+I wish to do.
+
+Please describe any other concerns or suggestions you might be have about the class.
+
+I feel like the class is good so far and I don't have any concerns for the project or the class in general.

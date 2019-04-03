@@ -1,0 +1,28 @@
+Jacob White - jrw5949
+
+The project I want to work on is a 2D top down GUI based game.
+
+I want to work on this project because I think it will be a fun and interesting
+challenge. Also I like to play games and would like to learn how to make a simple one.
+
+To successfully complete the project, I will need to improve my Java skills in 
+these areas: I need to improve my use of the MVC model. Also I need to learn to use
+Action Listeners and game mechanics such as when a shot hits an enemy. Then I need
+to improve my use of GUI interfaces to create a fun and entertaining game.
+
+I will need to learn new Java skills in these areas: GUI, Action listeners, and MVC
+
+I will have the following challenges to overcome in implementing my project using 
+the MVC design pattern: I need to make sure to appropriately put the correct methods
+and code into the correct MVC areas. Also I will need to separate the GUI, mechanics, and
+action listeners into different areas of the MVC
+ 
+Explain whether and why you will use Swing or Fx to complete your project. 
+How familiar are you with Swing and Fx? I will be using Swing to create a simple GUI
+based game. Swing will include different GUI elements that will be needed in order to
+create a successful game. I have used Swing before a bit in IST 242.
+
+Why should I believe that you can complete the project you propose on time, with 
+working code that demonstrates the features you will promise for each deliverable?
+I have experience with MVC from IST 242 and have a general idea of the game in which
+I want to design. I can always make the game more simple or more complex based on the available time I have to deliver each deliverable.
